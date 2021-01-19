@@ -74,7 +74,7 @@ Usage of this project is to light up a dark corner. OK, Let's see a real usage, 
 
 ## Screenshots
 
-View [Screenshots](https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/tree/main/Screenshots) here.
+View [Screenshots](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/tree/main/Screenshots) here.
 
 
 <!-- LICENSE -->
