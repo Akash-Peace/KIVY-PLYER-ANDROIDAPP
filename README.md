@@ -56,7 +56,7 @@ Disco project objective is to make a flash light app with multiple functions. It
 ## Requirements
 
 **Device:** Smartphone\
-**OS:** Android\
+**OS:** Android
 
 
 ## Installation
