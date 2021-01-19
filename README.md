@@ -26,6 +26,7 @@
     <li><a href="#requirements">Requirements</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -70,6 +71,10 @@ Step 3: Installation screen appears, Click _install_. Have fun!!!
 
 Usage of this project is to light up a dark corner. OK, Let's see a real usage, In case if a gang don't have any light setup with a sudden party mood, then Disco app can fill it. It features to loop a flash light between on & off mode with a given time duration by the user, So it almost look like _Party Disco Light_.
 
+
+## Screenshots
+
+View [Screenshots](https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/tree/main/Screenshots) here.
 
 
 <!-- LICENSE -->
