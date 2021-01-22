@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Disco project objective is to make a flash light app with multiple functions. It features to loop a flash light between on & off mode with a given time duration by the user. As it is mentioned, I decided to present this project as an android application, particularly using [Kivy framework](https://kivy.org/#home) combining with [Plyer](https://plyer.readthedocs.io/en/latest/). Disco is an offline application, So it is _100%_ save to use. This project is licensed by [MIT](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/blob/main/LICENSE) and it is free to use, fork, modify and distribute. If you like this project give a _star_ and follow me.
+Disco project objective is to make a flashlight app with multiple functions. It features to loop a flashlight between on & off mode with a given time duration by the user. As mentioned, I decided to present this project as an android application, particularly using the [Kivy framework](https://kivy.org/#home) combining with [Plyer](https://plyer.readthedocs.io/en/latest/). Disco is an offline application, So it is _100%_ safe to use. [MIT](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/blob/main/LICENSE) licenses this project and it is free to use, fork, modify and distribute. If you like this project, give a _star_ and follow me.
 
 ## Built With
 
