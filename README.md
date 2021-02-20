@@ -22,12 +22,13 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#powered-by">Powered by</a></li>
+    <li><a href="#powered-by">Powered By</a></li>
     <li><a href="#requirements">Requirements</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#my-system-spec">My System Spec</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -45,7 +46,7 @@ Disco project objective is to make a flashlight app with multiple functions. It 
 * [Python](https://www.python.org/)
 * [Kv language](https://kivy.org/doc/stable/guide/lang.html)
 
-## Powered by
+## Powered By
 
 * [KivyMD](https://kivymd.readthedocs.io/en/latest/)
 * [Plyer](https://plyer.readthedocs.io/en/latest/)
@@ -82,6 +83,25 @@ View [Screenshots](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/tree/mai
 
 Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/blob/main/LICENSE) for more information.
 
+
+## My System Spec
+
+**OS:** [Back Box](https://www.backbox.org/)\
+**Model:** Acer Aspire 5 A515-51G\
+**Processor:** Intel i5 7th gen\
+**Ram:** DDR4 8gb\
+**Disk:** HDD 100gb
+
+
+<!-- CONTACT -->
+## Contact
+
+Akash.A,\
+Rajalakshmi Engineering College,\
+Computer Science Engineer,\
+akashcse2000@gmail.com,\
+8608550403,\
+Chennai.
 
 
 <!-- CONTACT -->
