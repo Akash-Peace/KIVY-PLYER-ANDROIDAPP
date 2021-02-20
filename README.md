@@ -104,11 +104,6 @@ akashcse2000@gmail.com,\
 Chennai.
 
 
-<!-- CONTACT -->
-## Contact
-
-<strong>Hi, I'm Akash.A, Computer Science Engineer.</strong>
-
 ![GitHub metrics](https://metrics.lecoq.io/Akash-Peace)  
 
 Follow me on
