@@ -97,7 +97,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/
 ## Contact
 
 Akash.A,\
-Rajalakshmi Engineering College,\
 Computer Science Engineer,\
 akashcse2000@gmail.com,\
 8608550403,\
